@@ -426,3 +426,18 @@ https://1224-tbx.vrioott.com/tlc/manifest.mpd?hdnts=exp%3D1754198512%7Eacl%3D%2F
 TyC Sports
 https://1240-aws-da-mt.vrioott.com/v1/dash/f761a4100cd1d44ec919aa9543945ae7f63d684e/live_1240/6274fc3f8f7740ffbdb799edb2d96e72/manifest.mpd?hdnts=exp%3D1754198688%7Eacl%3D%2F*%7Eid%3D873149c4-d8b8-48d4-96e7-577772e4c152%7Ehmac%3Da76e8647bfe62c130cc0463ffe796e87a2eb7aa60aaad64739d13737bd18c448&tokenization=true&da=1&country=AR&accountType=DTH&accountId=873149c4-d8b8-48d4-96e7-577772e4c152&deviceType=web&channelId=CH0100000000036&deviceId=74033994-ef21-4b4a-95b7-61c1e8cb8a95
 (--key a5b53c6787aa419f9849a175b0ddfb19:17d314ed040c2bf1a2f89cfcdc76885a --key 566d0a2b7ee9384c8fc5e3613db7fb7e:212e8565923aafd8e972225afe6a336e --key 219a52f513c25fe984ec6199ea240f41:203bd44ec20e139a9992d33b670a2541 --key 795dbd64ddae51ed8906c4f402e1bde7:4e145fd3dc403776f1c5597d550408f1 --key e458469bfc515bfe82ae4760a945b739:222e26ff47554d580038aeaea7bf96e7)
+
+https://1022-tbx.vrioott.com/aztecacinema/manifest.mpd
+--key ba033d0c20725e1c83bec787a0fd745a:b481258a611819dde26ffb9fd4b99025
+
+https://1021-tbx.vrioott.com/aztecaclic/manifest.mpd
+--key 658e573246a856d880a877b69d1ad715:e95e4f1399649d0ed0fad935168cd975
+
+https://1022-tbx.vrioott.com/aztecacorazon/manifest.mpd
+--key f22c4752daec59a584b950d7daf538dc:a4b71cc67dd9d305b367c5a488e32c7e
+
+https://1023-tbx.vrioott.com/aztecamundo/manifest.mpd
+--key 07e324aea2025e728777835c5b8fed36:b57b8cf56f2ad7140080e356ecaae6cf
+
+https://1114-tbx.vrioott.com/foxnews/manifest.mpd
+--key ece5861b6dab57e1807baa084824a2e6:c4e6e98535157642fffa89e5a2a2da3d
