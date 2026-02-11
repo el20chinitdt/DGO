@@ -410,6 +410,11 @@ https://1084-tbx.vrioott.com/disneysur/manifest.mpd?hdnts=exp%3D1769872983%7Eacl
 --key d60210506d20557a8ab4ea2a7b88e598:8eb89060cb0ab73acc40e48934f2841e
 --key 7d0c49778bc451d2b5ea44346e72a85d:abf63850f120183c6f62c3e45334732c
 
+EL REINO INFANTIL
+https://dtvott-tbx.akamaized.net/Live_1311/manifest.mpd
+hdnts=exp%3D1770851266%7Eacl%3D%2F*%7Eid%3D9e35e299-eff3-5c9f-b5ad-50c2223ab7a1%7Ehmac%3Dc08375ca112800f4eaa39b74929e97515aab755cdcbec86ad82348c838054fc6
+--key 5a943cad6ab15cb38be03142ec55b493:cdcdc390b8cef099ccdf38ff830b3f32
+
 DISNEY JR.
 https://1087-tbx.vrioott.com/disneyjrsur/manifest.mpd?hdnts=exp%3D1769873229%7Eacl%3D%2F*%7Eid%3D9e35e299-eff3-5c9f-b5ad-50c2223ab7a1%7Ehmac%3D351c72423de5a0e9e91d6b2c86825ee84cc9e4c6bd7d7e423a6dfa5aec00e164&tokenization=true&da=1&country=AR&accountType=OTT&accountId=9e35e299-eff3-5c9f-b5ad-50c2223ab7a1&deviceType=web&channelId=CH0100000000146&deviceId=b824da03-60cb-40cb-84bb-8987d5097684
 --key 8b9a5b8f36c35f2f82b13f1833fa069a:3a8f1622fedcedd6f4eaae8f6eddabaa
